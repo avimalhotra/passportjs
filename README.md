@@ -1,2 +1,3 @@
 # passportjs
-passport.js
+passport local
+passport.js  for user authentication
